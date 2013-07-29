@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyLife.GlobalVariables">
+    <Position X="33.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAEACAAAAAAhAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>GlobalVariables.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.CalendarEvent">
+    <Position X="45" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAACEAAgAAACIAAAAAAASAAAAEgAAAAAAAAAAAIAA=</HashCode>
+      <FileName>ScreenElements\Events\CalendarEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.PlayerIndexEventArgs" Collapsed="true">
+    <Position X="50" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>ScreenElements\Events\PlayerIndexEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.Calendar">
+    <Position X="36" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAQQCggQAAh4AgBJQAIQQEAgACAAIAAAQgAERCICA=</HashCode>
+      <FileName>ScreenElements\Calendar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.MenuEntry" Collapsed="true">
+    <Position X="50" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAgAAAAJABAAAAAAAAIAAAACEQAAAI=</HashCode>
+      <FileName>ScreenElements\MenuEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.Tile">
+    <Position X="41.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="MyLife.Tile.Alignment" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ScreenElements\Tile.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="MyLife.Tile.Interaction" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ScreenElements\Tile.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIYCAAAAAAADkwIoBoKAKCQgkAAAADCKQAAoSAGCMAI=</HashCode>
+      <FileName>ScreenElements\Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.GameScreen" Collapsed="true">
+    <Position X="16" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAEBCAAARQAgAEEAIAAAAADAAAAA4AAgAGAkYIBAY=</HashCode>
+      <FileName>ScreenManager\GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.InputDeviceState">
+    <Position X="30" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQQCEAOIATECiQEgAAAAACQAAgAIIAIgDQDgogEA4AI=</HashCode>
+      <FileName>ScreenManager\InputDeviceState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.InputState">
+    <Position X="31.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAUBAAAAAAAAgAAACQAAFYAAAAAEAIAAAEAAAAEA=</HashCode>
+      <FileName>ScreenManager\InputState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.ScreenManager">
+    <Position X="43.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAVEAgAAAgAwAAAAAAAAAAAAAAiBAERAAAgAACCEQ=</HashCode>
+      <FileName>ScreenManager\ScreenManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.BackgroundScreen" Collapsed="true">
+    <Position X="20.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCEAAAAAAAAgAAAAAAAAAAAAAAABAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Screens\BackgroundScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.BankScreen" Collapsed="true">
+    <Position X="21.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCFACAABAAAgAAAAAAIAAEgwEIAAAAAAAAgAgAIAY=</HashCode>
+      <FileName>Screens\BankScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.DashboardScreen">
+    <Position X="37.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIIAQCgABqAAwACBAAAEAQBAAYAAAAEAAAgAAACACA=</HashCode>
+      <FileName>Screens\DashboardScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.GameplayScreen">
+    <Position X="39.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgQCliCwJAAABrAAShaTYUECowwAAgAIAAAAAAGEcAQ=</HashCode>
+      <FileName>Screens\GameplayScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.HelpFadeScreen" Collapsed="true">
+    <Position X="13.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAACAQBCAAkAABAAAAAQAAAAQAAAgIABAABACUQQ=</HashCode>
+      <FileName>Screens\HelpFadeScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.HelpScreen" Collapsed="true">
+    <Position X="16" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQCFiCgJAAABrAASBKTYUACowwAAgAIAgAAAAGAcAQ=</HashCode>
+      <FileName>Screens\HelpScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.LoadingScreen" Collapsed="true">
+    <Position X="17" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAgAAAAAAAAgAAAAAQAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Screens\LoadingScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.MainMenuScreen" Collapsed="true">
+    <Position X="11.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAiAAAAAAAAAAAAAAAAAAAQAABAAAAACAIAAgAAA=</HashCode>
+      <FileName>Screens\MainMenuScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.MenuScreen" Collapsed="true">
+    <Position X="10.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQQAADGAQAAQAkAAAAAAgAAAAgAAAAIAAAAAAAQAAAA=</HashCode>
+      <FileName>Screens\MenuScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.MessageBoxScreen" Collapsed="true">
+    <Position X="11.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQQCAACAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAACQ=</HashCode>
+      <FileName>Screens\MessageBoxScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.PauseMenuScreen" Collapsed="true">
+    <Position X="9" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Screens\PauseMenuScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.PaymentScreen" Collapsed="true">
+    <Position X="18.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAYCBYCAQDiggkgABAAAAASAggIAiAAAAAAggAACACQ=</HashCode>
+      <FileName>Screens\PaymentScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.QuizScreen" Collapsed="true">
+    <Position X="19.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAYCECCAABAAAgIgAAAAIAAQw2UAAAAAAAgAgAgJIAQ=</HashCode>
+      <FileName>Screens\QuizScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.TransactionScreen" Collapsed="true">
+    <Position X="22.5" Y="5.25" Width="1.5" />
+    <InheritanceLine Type="MyLife.GameScreen" FixedFromPoint="true">
+      <Path>
+        <Point X="16.75" Y="4.562" />
+        <Point X="16.75" Y="4.875" />
+        <Point X="23.25" Y="4.875" />
+        <Point X="23.25" Y="5.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AwYCEACAABAAAgAAECAAIAAAg0AAAAAAAAAAAAgAIAQ=</HashCode>
+      <FileName>Screens\TransactionScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.Finance">
+    <Position X="33.5" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AACAAAQAAAAEIAAAgCAAAgAEAAQABAAAQAAAAAAAgAA=</HashCode>
+      <FileName>FinanaceRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.Transaction">
+    <Position X="33.5" Y="6.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAAAAUAAAAEAAABAAAAAQSAAAAEgAABAAAAAQAAAAA=</HashCode>
+      <FileName>FinanaceRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLife.MyLifeGame" Collapsed="true">
+    <Position X="49.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAEAAAAQ=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MyLife.ScreenState">
+    <Position X="43.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAAAEAAA=</HashCode>
+      <FileName>ScreenManager\GameScreen.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
